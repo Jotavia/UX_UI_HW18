@@ -11,7 +11,7 @@ header {
     text-align: center;
 }
 nav {
-    background-color: #212512;
+    background-color: rgb(6, 67, 6);
     padding: 10px;
     text-align: center;
         }
@@ -20,19 +20,32 @@ nav a {
     color: white;
     margin: 0 10px;
         }
+
 .container {
     max-width: 800px;
     margin: 20px auto;
     padding: 0 20px;
+
         }
+
+
 #MyWork {
     border: 1px solid #ccc;
     padding: 20px;
     margin-bottom: 20px;
-    border-radius: 5px;
-        }
+    border-radius: 15px;
+    
+    
+    }
+
 #project h2 {
     margin-top: 0;
+    display: block;
+    
+    
+
+    
+
         }
 .project p {
     margin-bottom: 10px;
